@@ -1,11 +1,11 @@
-name: ffmpeg_kit_16kb
+name: flutter_ffmpeg_kit_audio
 description: FFmpeg Kit for Flutter with Full GPL and updated bindings. Supports Android, iOS and macOS platforms.
 repository: https://github.com/zhouxin1233/ffmpeg_kit_16kb
 homepage: https://github.com/zhouxin1233/ffmpeg_kit_16kb
 version: 1.0.5
 
 environment:
-  sdk: ^3.8.1
+  sdk: ^3.6.1
   flutter: '>=3.3.0'
 flutter:
   plugin:
