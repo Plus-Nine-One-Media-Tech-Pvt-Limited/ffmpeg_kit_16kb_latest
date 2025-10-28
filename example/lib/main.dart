@@ -1,9 +1,9 @@
 import 'dart:io';
 
-import 'package:flutter_ffmpeg_kit_audio/ffmpeg_kit.dart';
-import 'package:flutter_ffmpeg_kit_audio/log.dart';
-import 'package:flutter_ffmpeg_kit_audio/session.dart';
-import 'package:flutter_ffmpeg_kit_audio/statistics.dart';
+import 'package:ffmpeg_kit_flutter_audio/ffmpeg_kit.dart';
+import 'package:ffmpeg_kit_flutter_audio/log.dart';
+import 'package:ffmpeg_kit_flutter_audio/session.dart';
+import 'package:ffmpeg_kit_flutter_audio/statistics.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:path_provider/path_provider.dart';
